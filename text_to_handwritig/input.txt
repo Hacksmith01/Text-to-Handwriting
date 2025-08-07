@@ -1,0 +1,43 @@
+text = """H'Are nuclear weapons safe in rogue nation like Pakistan?' Unsettling truth behind Rajnath Singh's concerns
+Rajnath Singh is not the first leader to sound alarm about Pakistan, a nation that has waged war with India four times, possessing nuclear weapons.
+ Curated by : Armaan Bhatnagar May 15, 2025 / 18:23 IST
+Representative image created via Grok
+Representative image created via Grok
+Amid widespread speculations about the safety of Pakistan's nuclear sites during its tense conflict with India, Union minister Rajnath Singh on Thursday posed a question that has always unsettled the international community: "Are nuclear weapons safe in the hands of an irresponsible and rogue nation like Pakistan?"
+
+Rajnath, who is on a visit to Srinagar, said that Pakistan’s nuclear weapons should be placed under the supervision of the IAEA (International Atomic Energy Agency). The defence minister also blasted Pakistan for using the nuclear threat as a blackmail during the four-day conflict with India, referring to remarks made by several ministers of the Shehbaz Sharif government about the potential use of nuclear weapons.
+
+'One of the most dangerous nations ...'
+
+Rajnath Singh is not the first leader to sound alarm about Pakistan, a nation that has waged war with India four times, being in possession of nuclear weapons. Pakistan is estimated to have approximately 170 nuclear warheads.
+
+In fact, even Pakistan's own leaders have on multiple occasions expressed concerns about the country possessing nuclear weapons and the possibility of them falling into the wrong hands.
+
+Take as recently as 2022, when US President Joe Biden described Pakistan as "one of the most dangerous nations in the world" due to its possession of nuclear weapons without apparent cohesion. He was articulating long-standing concerns in US about the potential for Pakistan's nuclear assets to be compromised amid internal instability.
+
+The country, as we all know, has witnessed multiple coups over the years with no prime minister ever completing his or her entire term. It has been under military dictatorship for nearly 34 out of 77 years since gaining Independence.
+
+Former US NSA John Bolton had once expressed concerns that the Taliban's resurgence in Afghanistan could lead to terrorists gaining control over Pakistan's nuclear weapons. He suggested that instability in the region poses a significant threat to nuclear security.
+
+More recently, Austrian military historian Tom Cooper said that Pakistan's inability to protect its nuclear storage facilities during the Indian airstrikes highlighted significant security lapses. He emphasized that these vulnerabilities raised serious concerns about Pakistan's capacity to safeguard its nuclear arsenal — not just from India but all other external or internal threats.
+
+And it’s not just global leaders who have voiced concerns about Pakistan’s nuclear arsenal — even some of its own leaders have cast doubt on whether the country has the security infrastructure necessary to protect its atomic weapons.
+
+Former foreign minister Shah Mehmood Qureshi said in 2011 that Pakistan's nuclear weapons were not safe under President Asif Ali Zardari's leadership. His remarks aligned with Western fears about the potential for Taliban access to nuclear assets.
+
+Former President Pervez Musharraf had to established a Nuclear Command and Control Authority (NCCA) in February 2000 to allay western fears that Pakistan's nuclear weapons end up in the hands of “fundamentalists”.
+
+In an old article on Al Jazeera, Dr AH Nayyar, who was a physics professor at a Islamabad University, had criticised this decision and said that it was unclear whether NCCA will really reduce the possibility of an "accidental launch".
+
+Threatening statements by Pakistani ministers have only added to the concerns. Pakistani politician Captain Muhammad Safdar, son-in-law of former Prime Minister Nawaz Sharif, declared at a political rally in 2023 that Pakistan's nuclear weapons were intended for the "whole Muslim world." Indian intelligence sources interpreted this statement as indicative of irresponsible stewardship over nuclear assets, suggesting they were in "unsafe and irresponsible hands."
+
+Strategic ambiguity 
+
+What has always stoked the concerns of countries and experts is the fact that Pakistan has been rather ambigious about its nuclear doctrine, unlike India which has clearly spelt out its policy.
+
+Since Pakistan does not follow the "no first use" policy, Islamabad has the flexibility to use nuclear weapons at any stage of the conflict.
+
+US-based academic institution Combating Terrorism Center, in an old report, had flagged that the risk of the transfer of nuclear weapons to terrorists in Pakistan "is genuine".
+
+" ... the knowledge that such a transfer has occurred may not become evident until the aftermath of a nuclear 9/11 in Pakistan or elsewhere in the world. It remains imperative that Pakistan is pressured and supported, above all by the United States, to continue to improve the safety and security of its nuclear weapons and to ensure the fidelity of those civilian and military personnel with access to, or knowledge of, nuclear weapons," the report had said.
+""" * 15  # repeat to simulate multiple pages
